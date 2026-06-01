@@ -1,0 +1,6 @@
+{
+  "name": "AlgoRx Lab Summary Pro",
+  "description": "Professional lab report summaries and performance insights for bio-optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
